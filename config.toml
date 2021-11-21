@@ -14,12 +14,9 @@ pluralizelisttitles = false
 [params]
     name = "Auto - Šimon"
     description = "Výkup a prodej aut. Dovoz osobních a užitkových aut převážně z Německa."
+    favicon = "logo.jpg"
+    banner = "./banner.jpg"
+    logo = "logo.jpg"
 
-    favicon = "/logo.jpg"
-    backgroundImage = "/images/banner.jpg"
-    banner = "/banner.jpg"
-    logo = "/logo.jpg"
-
-# https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter
 [build]
   writeStats = true
