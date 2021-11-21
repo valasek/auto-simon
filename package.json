@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/valasek/auto-simon#readme",
   "dependencies": {
+    "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.11",
     "postcss-cli": "^9.0.2",

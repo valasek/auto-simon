@@ -12,9 +12,9 @@ pluralizelisttitles = false
    tags = "/novinky/:slug/"
 
 [params]
-    name = "Auto - Šimon"
+    name = "Auto Šimon"
     description = "Výkup a prodej aut. Dovoz osobních a užitkových aut převážně z Německa."
-    favicon = "logo.jpg"
+    favicon = "favicon.ico"
     banner = "./banner.jpg"
     logo = "logo.jpg"
 
